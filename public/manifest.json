@@ -1,0 +1,23 @@
+{
+  "name": "RecycleMania",
+  "short_name": "RecycleMania",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#57e389",
+  "background_color": "#26a269",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
